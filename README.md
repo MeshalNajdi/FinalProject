@@ -23,7 +23,6 @@ CSS <br/>
 React-Bootstrap <br/>
 
 ## Back-End
-Node.js  <br/>
 
 Firebase API
 
